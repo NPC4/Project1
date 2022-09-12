@@ -8,3 +8,5 @@ from PIL import Image
 #Convert
 #Save to new folder
 
+def myfunc():
+    pass
